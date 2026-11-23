@@ -1,0 +1,6 @@
+{
+  "name": "Basqarıw programmaları — Robot oyını",
+  "description": "9-klass oqıwshıları ushın robotqa qısqartırılǵan buyrıqlar (FD, BK, RT, LT) arqalı basqarıw programmasın dúziwdi úyretetuǵın interaktiv oyın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
